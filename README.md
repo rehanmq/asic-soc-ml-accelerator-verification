@@ -4,7 +4,6 @@
 
 This project demonstrates end-to-end **ASIC design and functional verification** of a lightweight **Machine Learning (ML) accelerator** integrated into a custom **System-on-Chip (SoC)**. The entire verification flow is implemented using **SystemVerilog**, **UVM (Universal Verification Methodology)**, and **Python** scripting for automation.
 
-Inspired by real-world projects at **Amazon’s Annapurna Labs**, this repository simulates the design and verification challenges involved in building scalable, ML-accelerated custom silicon.
 
 ---
 
@@ -70,7 +69,7 @@ asic-soc-ml-accelerator-verification/
 
 ## 📌 Target Role
 
-This project is part of a hardware-centric portfolio built specifically to match the **ASIC Design Verification Engineer** role at [Amazon Annapurna Labs](https://www.amazon.jobs/en/teams/annapurna). It demonstrates my passion for:
+This project is part of a hardware-centric portfolio built specifically to match the **ASIC Design Verification Engineer** role at top Semiconductor Designing Companies of the world. It demonstrates my passion for:
 
 - Hardware/software co-design
 - ML accelerator design
